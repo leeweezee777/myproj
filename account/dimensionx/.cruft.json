@@ -1,0 +1,11 @@
+{
+    "template": "git@github.com:leeweezee777/mytemplate.git",
+    "commit": "9075f88699f5def83581cbfea82dd556b7dde7b4",
+    "context": {
+        "cookiecutter": {
+            "account_name": "dimensionx",
+            "_template": "git@github.com:leeweezee777/mytemplate.git"
+        }
+    },
+    "directory": null
+}
